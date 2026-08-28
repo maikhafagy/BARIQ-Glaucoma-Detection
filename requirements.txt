@@ -1,8 +1,12 @@
-tensorflow
+torch
+torchvision
 opencv-python
 numpy
 pandas
-matplotlib
 scikit-learn
-streamlit
+fastapi
+uvicorn
 pillow
+onnx
+onnxruntime
+python-multipart
